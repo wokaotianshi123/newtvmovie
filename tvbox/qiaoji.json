@@ -6748,7 +6748,7 @@
     {"name":"ce4k","type":1,"url":"http://43.143.123.112:8182/qq/api.php?tk=zdytv202211&defn=uhd&url="},
  {"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
  {"name":"Fosi嗅探","type":0,"url":"https://play.fositv.com/?url="},
- {"name":"OKjx嗅探","type":0,"url":"https://okjx.cc/?url="},
+   {"name":"OKjx嗅探","type":0,"url":"https://okjx.cc/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 // {"name":"Nxflv嗅探","type":0,"url":"https://www.nxflv.com/?url="},
     {"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
     {"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
