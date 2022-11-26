@@ -35,7 +35,7 @@
   {"key": "csp_xBPQ_F7","name": "️F7(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"分类\":\"电影$2#剧集$1#综艺$4#动漫$3#学习$23\",\"分类url\":\"https://www.f7hkj.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/\",\"筛选\":\"1\"}","jar":"https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/jar/xBPQ.jar"},
     {"key":"csp_csp_XYQHiker_23wys","name":"23W(XYQh)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/23w_xyqhz_.json","jar":"https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"},
     {"key": "csp_csp_XYQHiker_naikan","name":"耐看(XYQh)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/naikan_xyqhz_.json","jar":"https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"},
-    {"key": "csp_csp_XYQHiker_xqmys","name":"小强迷(XYQh)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/xqmys_xyqh_.json","jar":"https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"},
+    //{"key": "csp_csp_XYQHiker_xqmys","name":"小强迷(XYQh)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/xqmys_xyqh_.json","jar":"https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"},
 {"key": "csp_xBPQ_cs","name": "️FREEOK(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"主演\": \"主演：&&</div\",\"简介\":\"module-info-introduction-content\\\">&&</p>\",\"分类\":\"电影$2#剧集$1#综艺$4#动漫$3#学习$27\",\"分类url\":\"https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/\",\"筛选\":\"1\"}","jar":"https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/jar/xBPQ.jar"},
 //{"key":"csp_xBPQ_zhi","name":"️zhi(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"分类url\": \"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\": \"1\",\"起始页\": \"1\",\"直接播放\": \"1\",\"数组\": \"{&&}\",\"图片\": \"imageUrl\\\":\\\"&&\\\"\",\"标题\": \"cname\\\":\\\"&&\\\"\",\"链接\": \"id\\\":\\\"&&\\\"\",\"链接前缀\": \"https://www.zhuafan.tech/\"}","jar":"https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/jar/xBPQ.jar"},
     
@@ -50,17 +50,17 @@
 
      //{"key": "csp_XYQBiu_kele","name": "可乐影视(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/kele_xyq_.json","jar":"https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar" },
 {"key": "csp_XYQBiu_aueteys","name":"AUETE(XYQh)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/auete_xyqhz_.json","jar":"https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/jar/XYQBiu.jar"},   
-    {
-      "key": "csp_csp_XYQHiker_guap",
-      "name": "瓜皮(XYQh)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/giapi_xyqh_.json",
-      "jar": "https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/jar/XBiu.jar"
-    },
+    //{
+      //"key": "csp_csp_XYQHiker_guap",
+      //"name": "瓜皮(XYQh)",
+      //"type": 3,
+      //"api": "csp_XYQHiker",
+      //"searchable": 1,
+      //"quickSearch": 1,
+      //"filterable": 0,
+      //"ext": "https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/giapi_xyqh_.json",
+      //"jar": "https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/jar/XBiu.jar"
+    //},
     {
   "key": "csp_xb_乐猪",
   "name": "乐猪影院(R)",
@@ -81,15 +81,15 @@
   "quickSearch": 1,
   "filterable": 0,
   "ext": "https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html","jar": "https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/jar/XBiu.jar"},
-    {
-  "key": "csp_xb_guapitv",
-  "name": "瓜皮TV(R)",
-  "type": 3,
-  "api": "csp_XBiu",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": "https://guapitv.xyz/vodshow/{cateId}--------{catePg}---.html","jar": "https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/jar/XBiu.jar"},
+    //{
+ // "key": "csp_xb_guapitv",
+ // "name": "瓜皮TV(R)",
+  //"type": 3,
+  //"api": "csp_XBiu",
+  //"searchable": 1,
+  //"quickSearch": 1,
+  //"filterable": 0,
+ // "ext": "https://guapitv.xyz/vodshow/{cateId}--------{catePg}---.html","jar": "https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/jar/XBiu.jar"},
     {
   "key": "csp_xb_cokemv",
   "name": "Cokemv(R)",
