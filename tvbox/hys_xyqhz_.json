@@ -54,7 +54,7 @@
     "地区详情": "制片国家</span>&&<",
     "演员详情": "主演</span>&&<",
     "简介详情": "class=\"summary\">&&</p",
-    "线路列表数组规则": ".panel-default&&.panel-heading",
+    "线路列表数组规则": "body&&.panel-heading",
     "线路标题": "strong&&Text",
     "播放列表数组规则": "body&&ul.dslist-group",
     "选集列表数组规则": "li",
