@@ -61,6 +61,8 @@
       //"ext": "https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/giapi_xyqh_.json",
       //"jar": "https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/jar/XBiu.jar"
     //},
+      {"key":"csp_xBiu_yszj","name": "影视之家(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://www.wybg666.com/vodtype/{cateId}-{catePg}.html","jar":"https://framagit.org/wokaotianshi123/tvmovie/-/raw/master/tvbox/jar/XBiu.jar"},
+ 
     {
   "key": "csp_xb_乐猪",
   "name": "乐猪影院(R)",
