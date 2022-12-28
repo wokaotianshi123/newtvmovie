@@ -18,7 +18,7 @@
         "api":"csp_XBPQ",
         "searchable":1,
         "quickSearch":1,
-        "filterable":1,
+        "filterable":0,
         "ext":"{
           \"播放数组\":\"class=\\\"stui-content__playlist&&</ul>\",
            \"线路数组\":\"class=\\\"stui-vodlist__head&&</div>\",
